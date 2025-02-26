@@ -1,0 +1,9 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.project.system.api.factory.RemoteUserFallbackFactory,\
+  com.project.system.api.factory.RemoteLogFallbackFactory, \
+  com.project.system.api.factory.RemoteFileFallbackFactory, \
+  com.project.system.api.factory.RemoteDictFallbackFactory, \
+  com.project.npddm.api.factory.RemoteNpddmBondFallbackFactory, \
+  com.project.csits.api.factory.RemoteCasFallbackFactory, \
+  com.project.system.api.factory.RemoteBondFallbackFactory,\
+  com.project.system.api.factory.RemoteReitsFallbackFactory

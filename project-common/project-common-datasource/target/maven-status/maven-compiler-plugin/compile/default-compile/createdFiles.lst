@@ -1,0 +1,3 @@
+com\project\common\datasource\annotation\Slave.class
+com\project\common\datasource\annotation\SlaveReply.class
+com\project\common\datasource\annotation\Master.class

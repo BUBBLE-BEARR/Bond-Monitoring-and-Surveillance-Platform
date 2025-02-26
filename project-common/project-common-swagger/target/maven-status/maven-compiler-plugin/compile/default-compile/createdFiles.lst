@@ -1,0 +1,10 @@
+com\project\common\swagger\config\SwaggerBeanPostProcessor.class
+com\project\common\swagger\config\SwaggerProperties$AuthorizationScope.class
+com\project\common\swagger\config\SwaggerAutoConfiguration.class
+com\project\common\swagger\config\SwaggerProperties$Authorization.class
+com\project\common\swagger\annotation\EnableCustomSwagger2.class
+com\project\common\swagger\config\SwaggerWebConfiguration.class
+com\project\common\swagger\domain\AjaxResultTo.class
+com\project\common\swagger\config\SwaggerProperties$Contact.class
+com\project\common\swagger\domain\BaseResult.class
+com\project\common\swagger\config\SwaggerProperties.class
